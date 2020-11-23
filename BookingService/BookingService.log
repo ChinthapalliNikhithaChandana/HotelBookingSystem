@@ -1,0 +1,79 @@
+INFO  03:43:54 Application started. Press Ctrl+C to shut down.
+INFO  03:43:54 Hosting environment: Development
+INFO  03:43:54 Content root path: C:\Users\nikhitha\source\repos\BookingService\BookingService
+INFO  03:44:28 Adding new hotel booking with booking id : 0
+ERROR 03:44:29 Error in adding  Booking with booking Id : 0
+INFO  08:32:22 Application started. Press Ctrl+C to shut down.
+INFO  08:32:22 Hosting environment: Development
+INFO  08:32:22 Content root path: C:\Users\nikhitha\source\repos\BookingService\BookingService
+INFO  08:32:28 Get All BookingDetails 
+ERROR 08:32:28 Error in Getting All Booking Details
+INFO  08:33:26 Adding new hotel booking with booking id : 0
+ERROR 08:33:26 Error in adding  Booking with booking Id : 0
+INFO  08:33:47 Adding new hotel booking with booking id : 0
+ERROR 08:33:47 Error in adding  Booking with booking Id : 0
+INFO  08:34:03 Adding new hotel booking with booking id : 0
+ERROR 08:34:03 Error in adding  Booking with booking Id : 0
+INFO  08:40:41 Application started. Press Ctrl+C to shut down.
+INFO  08:40:41 Hosting environment: Development
+INFO  08:40:41 Content root path: C:\Users\nikhitha\source\repos\BookingService\BookingService
+INFO  08:40:49 Get All BookingDetails 
+ERROR 08:40:49 Error in Getting All Booking Details
+INFO  08:41:19 Adding new hotel booking with booking id : 0
+ERROR 08:41:19 Error in adding  Booking with booking Id : 0
+INFO  08:41:39 Get BookingDetails withuser id : 1
+ERROR 08:41:39 Error in Getting Booking Details with user id : 1
+INFO  02:10:42 Application started. Press Ctrl+C to shut down.
+INFO  02:10:42 Hosting environment: Development
+INFO  02:10:42 Content root path: C:\Users\nikhitha\source\repos\BookingService\BookingService
+INFO  07:29:22 Application started. Press Ctrl+C to shut down.
+INFO  07:29:22 Hosting environment: Development
+INFO  07:29:22 Content root path: C:\Users\nikhitha\source\repos\BookingService\BookingService
+INFO  07:33:21 Get All BookingDetails 
+INFO  08:27:35 Application started. Press Ctrl+C to shut down.
+INFO  08:27:35 Hosting environment: Development
+INFO  08:27:35 Content root path: C:\Users\nikhitha\source\repos\BookingService\BookingService
+INFO  08:35:05 Application started. Press Ctrl+C to shut down.
+INFO  08:35:05 Hosting environment: Development
+INFO  08:35:05 Content root path: C:\Users\nikhitha\source\repos\BookingService\BookingService
+INFO  08:40:19 Application started. Press Ctrl+C to shut down.
+INFO  08:40:19 Hosting environment: Development
+INFO  08:40:19 Content root path: C:\Users\nikhitha\source\repos\BookingService\BookingService
+INFO  09:00:33 Application started. Press Ctrl+C to shut down.
+INFO  09:00:33 Hosting environment: Development
+INFO  09:00:33 Content root path: C:\Users\nikhitha\source\repos\BookingService\BookingService
+INFO  09:59:12 Application started. Press Ctrl+C to shut down.
+INFO  09:59:12 Hosting environment: Development
+INFO  09:59:12 Content root path: C:\Users\nikhitha\source\repos\BookingService\BookingService
+INFO  10:26:14 Get BookingDetails withuser id : 1
+INFO  10:22:53 Application started. Press Ctrl+C to shut down.
+INFO  10:22:53 Hosting environment: Development
+INFO  10:22:53 Content root path: C:\Users\nikhitha\source\repos\BookingService\BookingService
+INFO  10:52:19 Application started. Press Ctrl+C to shut down.
+INFO  10:52:19 Hosting environment: Development
+INFO  10:52:19 Content root path: C:\Users\nikhitha\source\repos\BookingService\BookingService
+INFO  10:52:35 Get All BookingDetails 
+INFO  11:07:19 Application started. Press Ctrl+C to shut down.
+INFO  11:07:19 Hosting environment: Development
+INFO  11:07:19 Content root path: C:\Users\nikhitha\source\repos\BookingService\BookingService
+INFO  11:10:24 Adding new hotel booking with booking id : 0
+INFO  11:19:00 Adding new hotel booking with booking id : 0
+INFO  11:20:32 Get BookingDetails withuser id : 1
+INFO  11:22:37 Adding new hotel booking with booking id : 0
+INFO  11:28:37 Adding new hotel booking with booking id : 0
+INFO  11:39:31 Application started. Press Ctrl+C to shut down.
+INFO  11:39:31 Hosting environment: Development
+INFO  11:39:31 Content root path: C:\Users\nikhitha\source\repos\BookingService\BookingService
+INFO  11:39:44 Get All BookingDetails 
+INFO  11:40:10 Adding new hotel booking with booking id : 0
+INFO  11:41:02 Adding new hotel booking with booking id : 0
+INFO  11:41:15 Get BookingDetails withuser id : 1
+INFO  11:45:01 Adding new hotel booking with booking id : 0
+INFO  11:45:07 Get BookingDetails withuser id : 1
+INFO  12:21:45 Application started. Press Ctrl+C to shut down.
+INFO  12:21:47 Hosting environment: Development
+INFO  12:21:47 Content root path: C:\Users\nikhitha\source\repos\BookingService\BookingService
+INFO  12:29:31 Adding new hotel booking with booking id : 0
+INFO  12:30:10 Get BookingDetails withuser id : 1
+INFO  12:38:49 Adding new hotel booking with booking id : 0
+INFO  12:40:50 Adding new hotel booking with booking id : 0

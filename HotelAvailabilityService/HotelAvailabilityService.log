@@ -1,0 +1,114 @@
+INFO  02:45:31 Application started. Press Ctrl+C to shut down.
+INFO  02:45:31 Hosting environment: Development
+INFO  02:45:31 Content root path: C:\Users\nikhitha\source\repos\HotelAvailabilityService\HotelAvailabilityService
+INFO  02:46:43 Adding hotel with id0
+INFO  02:46:54 Getting details of all Hotels
+INFO  02:47:22 Getting details of Hotel with  hotelid : 1
+INFO  02:47:37 Hotel Count  decremented for hotelid : 1
+INFO  08:35:54 Application started. Press Ctrl+C to shut down.
+INFO  08:35:54 Hosting environment: Development
+INFO  08:35:54 Content root path: C:\Users\nikhitha\source\repos\HotelAvailabilityService\HotelAvailabilityService
+INFO  08:36:04 Getting details of all Hotels
+INFO  08:36:56 Adding hotel with id0
+INFO  08:37:28 Getting details of all Hotels
+INFO  08:37:45 Getting details of Hotel with  hotelid : 2
+INFO  08:37:58 Hotel Count  decremented for hotelid : 2
+INFO  08:38:10 Getting details of all Hotels
+INFO  02:04:17 Application started. Press Ctrl+C to shut down.
+INFO  02:04:17 Hosting environment: Development
+INFO  02:04:17 Content root path: C:\Users\nikhitha\source\repos\HotelAvailabilityService\HotelAvailabilityService
+INFO  07:29:05 Application started. Press Ctrl+C to shut down.
+INFO  07:29:05 Hosting environment: Development
+INFO  07:29:05 Content root path: C:\Users\nikhitha\source\repos\HotelAvailabilityService\HotelAvailabilityService
+INFO  07:32:43 Getting details of all Hotels
+INFO  08:26:59 Application started. Press Ctrl+C to shut down.
+INFO  08:26:59 Hosting environment: Development
+INFO  08:26:59 Content root path: C:\Users\nikhitha\source\repos\HotelAvailabilityService\HotelAvailabilityService
+INFO  08:34:46 Application started. Press Ctrl+C to shut down.
+INFO  08:34:46 Hosting environment: Development
+INFO  08:34:46 Content root path: C:\Users\nikhitha\source\repos\HotelAvailabilityService\HotelAvailabilityService
+INFO  08:40:00 Application started. Press Ctrl+C to shut down.
+INFO  08:40:00 Hosting environment: Development
+INFO  08:40:00 Content root path: C:\Users\nikhitha\source\repos\HotelAvailabilityService\HotelAvailabilityService
+INFO  09:00:33 Application started. Press Ctrl+C to shut down.
+INFO  09:00:33 Hosting environment: Development
+INFO  09:00:33 Content root path: C:\Users\nikhitha\source\repos\HotelAvailabilityService\HotelAvailabilityService
+INFO  09:58:50 Application started. Press Ctrl+C to shut down.
+INFO  09:58:50 Hosting environment: Development
+INFO  09:58:50 Content root path: C:\Users\nikhitha\source\repos\HotelAvailabilityService\HotelAvailabilityService
+INFO  10:03:56 Getting details of all Hotels
+INFO  10:04:28 Getting details of all Hotels
+INFO  10:10:02 Getting details of all Hotels
+INFO  10:21:50 Getting details of all Hotels
+INFO  10:24:44 Getting details of all Hotels
+INFO  10:22:32 Application started. Press Ctrl+C to shut down.
+INFO  10:22:32 Hosting environment: Development
+INFO  10:22:32 Content root path: C:\Users\nikhitha\source\repos\HotelAvailabilityService\HotelAvailabilityService
+INFO  10:23:59 Getting details of all Hotels
+INFO  10:27:27 Getting details of all Hotels
+INFO  10:36:40 Application started. Press Ctrl+C to shut down.
+INFO  10:36:40 Hosting environment: Development
+INFO  10:36:40 Content root path: C:\Users\nikhitha\source\repos\HotelAvailabilityService\HotelAvailabilityService
+INFO  10:43:37 Application started. Press Ctrl+C to shut down.
+INFO  10:43:37 Hosting environment: Development
+INFO  10:43:37 Content root path: C:\Users\nikhitha\source\repos\HotelAvailabilityService\HotelAvailabilityService
+INFO  10:46:16 Application started. Press Ctrl+C to shut down.
+INFO  10:46:16 Hosting environment: Development
+INFO  10:46:16 Content root path: C:\Users\nikhitha\source\repos\HotelAvailabilityService\HotelAvailabilityService
+INFO  10:46:24 Getting details of all Hotels
+INFO  10:53:01 Application started. Press Ctrl+C to shut down.
+INFO  10:53:01 Hosting environment: Development
+INFO  10:53:01 Content root path: C:\Users\nikhitha\source\repos\HotelAvailabilityService\HotelAvailabilityService
+INFO  10:53:54 Getting details of all Hotels
+INFO  11:04:53 Application started. Press Ctrl+C to shut down.
+INFO  11:04:53 Hosting environment: Development
+INFO  11:04:53 Content root path: C:\Users\nikhitha\source\repos\HotelAvailabilityService\HotelAvailabilityService
+INFO  11:05:19 Getting details of Hotel with  hotelid : 1
+INFO  11:09:22 Getting details of all Hotels
+INFO  11:09:26 Getting details of Hotel with  hotelid : 1
+INFO  11:10:23 Getting details of Hotel with  hotelid : 1
+INFO  11:18:42 Getting details of all Hotels
+INFO  11:18:44 Getting details of Hotel with  hotelid : 2
+INFO  11:19:00 Getting details of Hotel with  hotelid : 2
+INFO  11:21:23 Getting details of Hotel with  hotelid : 2
+INFO  11:22:22 Getting details of all Hotels
+INFO  11:22:24 Getting details of Hotel with  hotelid : 3
+INFO  11:22:37 Getting details of Hotel with  hotelid : 3
+INFO  11:27:40 Application started. Press Ctrl+C to shut down.
+INFO  11:27:40 Hosting environment: Development
+INFO  11:27:40 Content root path: C:\Users\nikhitha\source\repos\HotelAvailabilityService\HotelAvailabilityService
+INFO  11:27:53 Getting details of Hotel with  hotelid : 2
+INFO  11:28:25 Getting details of all Hotels
+INFO  11:28:27 Getting details of Hotel with  hotelid : 1
+INFO  11:28:36 Getting details of Hotel with  hotelid : 1
+INFO  11:40:46 Getting details of all Hotels
+INFO  11:40:48 Getting details of Hotel with  hotelid : 1
+INFO  11:41:01 Getting details of Hotel with  hotelid : 1
+INFO  11:41:02 Getting details of all Hotels
+INFO  11:44:36 Getting details of all Hotels
+INFO  11:44:38 Getting details of Hotel with  hotelid : 3
+INFO  11:45:01 Getting details of Hotel with  hotelid : 3
+INFO  11:45:01 Getting details of all Hotels
+INFO  12:07:46 Application started. Press Ctrl+C to shut down.
+INFO  12:07:46 Hosting environment: Development
+INFO  12:07:46 Content root path: C:\Users\nikhitha\source\repos\HotelAvailabilityService\HotelAvailabilityService
+INFO  12:08:07 Hotel Count  decremented for hotelid : 1
+INFO  12:08:41 Getting details of Hotel with  hotelid : 1
+INFO  12:21:55 Application started. Press Ctrl+C to shut down.
+INFO  12:21:55 Hosting environment: Development
+INFO  12:21:55 Content root path: C:\Users\nikhitha\source\repos\HotelAvailabilityService\HotelAvailabilityService
+INFO  12:28:43 Getting details of all Hotels
+INFO  12:28:51 Getting details of Hotel with  hotelid : 1
+INFO  12:29:30 Getting details of Hotel with  hotelid : 1
+INFO  12:29:30 Getting details of Hotel with  hotelid : 1
+INFO  12:29:33 Getting details of all Hotels
+INFO  12:32:50 Hotel Count  decremented for hotelid : 1
+INFO  12:38:20 Getting details of all Hotels
+INFO  12:38:23 Getting details of Hotel with  hotelid : 1
+INFO  12:38:49 Getting details of Hotel with  hotelid : 1
+INFO  12:38:49 Hotel Count  decremented for hotelid : 1
+INFO  12:38:49 Getting details of all Hotels
+INFO  12:38:56 Getting details of Hotel with  hotelid : 2
+INFO  12:40:50 Getting details of Hotel with  hotelid : 2
+INFO  12:40:50 Hotel Count  decremented for hotelid : 2
+INFO  12:40:50 Getting details of all Hotels

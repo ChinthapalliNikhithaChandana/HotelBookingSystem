@@ -1,0 +1,57 @@
+﻿@model IEnumerable<ClientService.Models.Availablehotels>;
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Hotels List</h1>
+
+<p>
+    <a class="btn-success" href="@Url.Action("GetBookingItems","HotelList")">Booking Details</a>
+
+</p>
+<p>
+    <a class="btn btn-danger align-content-end" href="@Url.Action("Logout","Login")">Logout</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AvailableRooms)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CostPerDay)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AvailableRooms)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CostPerDay)
+                </td>
+                <td>
+
+                    <a class="btn btn-success" href="@Url.Action("Book","HotelList",new { id = item.Id })">Book</a>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

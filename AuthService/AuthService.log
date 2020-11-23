@@ -1,0 +1,111 @@
+INFO  04:11:41 Application started. Press Ctrl+C to shut down.
+INFO  04:11:41 Hosting environment: Development
+INFO  04:11:41 Content root path: C:\Users\nikhitha\source\repos\AuthService\AuthService
+INFO  04:14:14 Authentication initiated
+INFO  04:14:31 Authentication initiated
+INFO  02:23:10 Application started. Press Ctrl+C to shut down.
+INFO  02:23:10 Hosting environment: Development
+INFO  02:23:10 Content root path: C:\Users\nikhitha\source\repos\AuthService\AuthService
+INFO  07:29:44 Application started. Press Ctrl+C to shut down.
+INFO  07:29:44 Hosting environment: Development
+INFO  07:29:44 Content root path: C:\Users\nikhitha\source\repos\AuthService\AuthService
+INFO  07:34:53 Application started. Press Ctrl+C to shut down.
+INFO  07:34:53 Hosting environment: Development
+INFO  07:34:53 Content root path: C:\Users\nikhitha\source\repos\AuthService\AuthService
+INFO  07:36:15 Application started. Press Ctrl+C to shut down.
+INFO  07:36:15 Hosting environment: Development
+INFO  07:36:15 Content root path: C:\Users\nikhitha\source\repos\AuthService\AuthService
+INFO  07:51:14 Application started. Press Ctrl+C to shut down.
+INFO  07:51:14 Hosting environment: Development
+INFO  07:51:14 Content root path: C:\Users\nikhitha\source\repos\AuthService\AuthService
+INFO  07:52:36 Application started. Press Ctrl+C to shut down.
+INFO  07:52:36 Hosting environment: Development
+INFO  07:52:36 Content root path: C:\Users\nikhitha\source\repos\AuthService\AuthService
+INFO  07:54:05 Authentication initiated
+INFO  07:54:16 Authentication initiated
+INFO  07:58:59 Application started. Press Ctrl+C to shut down.
+INFO  07:59:00 Hosting environment: Development
+INFO  07:59:00 Content root path: C:\Users\nikhitha\source\repos\AuthService\AuthService
+INFO  08:05:21 Authentication initiated
+INFO  08:05:21 Token Generation initiated
+INFO  08:09:08 Application started. Press Ctrl+C to shut down.
+INFO  08:09:08 Hosting environment: Development
+INFO  08:09:08 Content root path: C:\Users\nikhitha\source\repos\AuthService\AuthService
+INFO  08:09:54 Authentication initiated
+INFO  08:09:55 Token Generation initiated
+INFO  08:25:08 Application started. Press Ctrl+C to shut down.
+INFO  08:25:08 Hosting environment: Development
+INFO  08:25:08 Content root path: C:\Users\nikhitha\source\repos\AuthService\AuthService
+INFO  08:25:30 Authentication initiated
+INFO  08:25:31 Token Generation initiated
+INFO  08:35:21 Application started. Press Ctrl+C to shut down.
+INFO  08:35:21 Hosting environment: Development
+INFO  08:35:21 Content root path: C:\Users\nikhitha\source\repos\AuthService\AuthService
+INFO  08:40:37 Application started. Press Ctrl+C to shut down.
+INFO  08:40:37 Hosting environment: Development
+INFO  08:40:37 Content root path: C:\Users\nikhitha\source\repos\AuthService\AuthService
+INFO  08:42:50 Authentication initiated
+INFO  08:42:50 Token Generation initiated
+INFO  09:00:37 Application started. Press Ctrl+C to shut down.
+INFO  09:00:37 Hosting environment: Development
+INFO  09:00:37 Content root path: C:\Users\nikhitha\source\repos\AuthService\AuthService
+INFO  09:01:00 Authentication initiated
+INFO  09:01:00 Token Generation initiated
+INFO  09:59:35 Application started. Press Ctrl+C to shut down.
+INFO  09:59:35 Hosting environment: Development
+INFO  09:59:35 Content root path: C:\Users\nikhitha\source\repos\AuthService\AuthService
+INFO  10:00:17 Authentication initiated
+INFO  10:00:17 Token Generation initiated
+INFO  10:03:53 Authentication initiated
+INFO  10:03:53 Token Generation initiated
+INFO  10:10:01 Authentication initiated
+INFO  10:10:01 Token Generation initiated
+INFO  10:21:49 Authentication initiated
+INFO  10:21:49 Token Generation initiated
+INFO  10:24:44 Authentication initiated
+INFO  10:24:44 Token Generation initiated
+INFO  08:30:54 Application started. Press Ctrl+C to shut down.
+INFO  08:30:54 Hosting environment: Development
+INFO  08:30:54 Content root path: C:\Users\nikhitha\source\repos\AuthService\AuthService
+INFO  08:31:54 Authentication initiated
+INFO  08:31:54 Token Generation initiated
+INFO  10:23:12 Application started. Press Ctrl+C to shut down.
+INFO  10:23:12 Hosting environment: Development
+INFO  10:23:12 Content root path: C:\Users\nikhitha\source\repos\AuthService\AuthService
+WARN  10:23:55 Failed to determine the https port for redirect.
+INFO  10:23:58 Authentication initiated
+INFO  10:23:58 Token Generation initiated
+INFO  10:27:26 Authentication initiated
+INFO  10:27:26 Token Generation initiated
+INFO  10:33:44 Authentication initiated
+INFO  10:33:44 Token Generation initiated
+INFO  10:53:18 Application started. Press Ctrl+C to shut down.
+INFO  10:53:18 Hosting environment: Development
+INFO  10:53:18 Content root path: C:\Users\nikhitha\source\repos\AuthService\AuthService
+WARN  10:53:48 Failed to determine the https port for redirect.
+INFO  10:53:52 Authentication initiated
+INFO  10:53:52 Token Generation initiated
+INFO  11:07:55 Application started. Press Ctrl+C to shut down.
+INFO  11:07:55 Hosting environment: Development
+INFO  11:07:55 Content root path: C:\Users\nikhitha\source\repos\AuthService\AuthService
+WARN  11:09:18 Failed to determine the https port for redirect.
+INFO  11:09:21 Authentication initiated
+INFO  11:09:21 Token Generation initiated
+INFO  11:18:41 Authentication initiated
+INFO  11:18:41 Token Generation initiated
+INFO  11:22:21 Authentication initiated
+INFO  11:22:21 Token Generation initiated
+INFO  11:28:24 Authentication initiated
+INFO  11:28:24 Token Generation initiated
+INFO  11:40:45 Authentication initiated
+INFO  11:40:45 Token Generation initiated
+INFO  11:44:35 Authentication initiated
+INFO  11:44:35 Token Generation initiated
+INFO  12:21:56 Application started. Press Ctrl+C to shut down.
+INFO  12:21:56 Hosting environment: Development
+INFO  12:21:56 Content root path: C:\Users\nikhitha\source\repos\AuthService\AuthService
+WARN  12:28:39 Failed to determine the https port for redirect.
+INFO  12:28:42 Authentication initiated
+INFO  12:28:42 Token Generation initiated
+INFO  12:38:20 Authentication initiated
+INFO  12:38:20 Token Generation initiated
