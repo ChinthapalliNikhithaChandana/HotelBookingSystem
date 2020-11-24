@@ -21,8 +21,8 @@ namespace BookingServiceTest
         {
             books = new List<Booking>()
             {
-                new Booking{BookingId = 1, HotelId=1,UserId=1,StartDate=Convert.ToDateTime("10/12/2020 00:00:00 AM"), EndDate = Convert.ToDateTime("11/12/2020  00:00:00 AM/"),BillAmount=6000.00},
-                 new Booking{BookingId = 2, HotelId=1,UserId=1,StartDate=Convert.ToDateTime("11/12/2020 00:00:00 AM"), EndDate = Convert.ToDateTime("12/12/2020  00:00:00 AM/"),BillAmount=6000.00}
+                new Booking{BookingId = 1, HotelId=1,UserId=1,StartDate=Convert.ToDateTime("10/12/2020"), EndDate = Convert.ToDateTime("11/12/2020"),BillAmount=6000.00},
+                 new Booking{BookingId = 2, HotelId=1,UserId=1,StartDate=Convert.ToDateTime("11/12/2020"), EndDate = Convert.ToDateTime("12/12/2020"),BillAmount=6000.00}
 
             };
             bookingdata = books.AsQueryable();
@@ -45,18 +45,21 @@ namespace BookingServiceTest
         {
             var bookingrepo = new BookingRepository(bookcontextmock.Object);
             var bookinglist = bookingrepo.GetByUserId(1);
-            Assert.AreEqual(1, bookinglist);
-
-
-
-
+            Assert.IsNotNull(bookinglist);
         }
         [Test]
         public void AddBookingDetailTest()
         {
             var bookingrepo = new BookingRepository(bookcontextmock.Object);
-            var bookingobj = bookingrepo.AddBooking(new Booking { BookingId = 3, HotelId = 1, UserId = 1, StartDate =Convert.ToDateTime("10/11/2020 00:00:00 AM"), EndDate = Convert.ToDateTime("11/11/2020  00:00:00 AM/"), BillAmount = 6000.00 });;
+            var bookingobj = bookingrepo.AddBooking(new Booking { BookingId = 3, HotelId = 1, UserId = 1, StartDate =Convert.ToDateTime("10/11/2020"), EndDate = Convert.ToDateTime("11/11/2020"), BillAmount = 6000.00 });;
             Assert.IsNotNull(bookingobj);
+        }
+        [Test]
+        public void AddBookingDetailsTestFailed()
+        {
+            var bookingrepo = new BookingRepository(bookcontextmock.Object);
+            var bookingobj = bookingrepo.AddBooking(new Booking { BookingId = 3, HotelId = 20, UserId = 1, StartDate = Convert.ToDateTime("10/11/2020"), EndDate = Convert.ToDateTime("11/11/2020"), BillAmount = 6000.00 }); ;
+            Assert.AreNotEqual(3,bookingobj.Id);
         }
     }
 }

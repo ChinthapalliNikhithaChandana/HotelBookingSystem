@@ -112,3 +112,15 @@ INFO  12:38:56 Getting details of Hotel with  hotelid : 2
 INFO  12:40:50 Getting details of Hotel with  hotelid : 2
 INFO  12:40:50 Hotel Count  decremented for hotelid : 2
 INFO  12:40:50 Getting details of all Hotels
+INFO  10:53:25 Application started. Press Ctrl+C to shut down.
+INFO  10:53:25 Hosting environment: Development
+INFO  10:53:25 Content root path: C:\Users\nikhitha\source\repos\HotelAvailabilityService\HotelAvailabilityService
+INFO  10:53:54 Hotel Count  decremented for hotelid : 1
+INFO  12:11:43 Application started. Press Ctrl+C to shut down.
+INFO  12:11:43 Hosting environment: Development
+INFO  12:11:43 Content root path: C:\Users\nikhitha\source\repos\HotelAvailabilityService\HotelAvailabilityService
+INFO  12:14:15 Getting details of all Hotels
+INFO  12:14:21 Getting details of Hotel with  hotelid : 3
+INFO  12:14:39 Getting details of Hotel with  hotelid : 3
+INFO  12:14:43 Hotel Count  decremented for hotelid : 3
+INFO  12:14:44 Getting details of all Hotels

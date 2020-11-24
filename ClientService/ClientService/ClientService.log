@@ -603,3 +603,12 @@ INFO  12:38:49 Hotels list getting Displayed
 INFO  12:38:56 Booking in progess
 INFO  12:40:50 Booking Done
 INFO  12:40:50 Hotels list getting Displayed
+INFO  12:13:47 Application started. Press Ctrl+C to shut down.
+INFO  12:13:47 Hosting environment: Development
+INFO  12:13:47 Content root path: C:\Users\nikhitha\source\repos\ClientService\ClientService
+INFO  12:14:11 User Login
+INFO  12:14:14 Hotels list getting Displayed
+INFO  12:14:21 Booking in progess
+INFO  12:14:39 Booking Done
+INFO  12:14:44 Hotels list getting Displayed
+INFO  12:14:49 Getting Booking details

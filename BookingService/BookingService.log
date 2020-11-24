@@ -77,3 +77,8 @@ INFO  12:29:31 Adding new hotel booking with booking id : 0
 INFO  12:30:10 Get BookingDetails withuser id : 1
 INFO  12:38:49 Adding new hotel booking with booking id : 0
 INFO  12:40:50 Adding new hotel booking with booking id : 0
+INFO  12:12:25 Application started. Press Ctrl+C to shut down.
+INFO  12:12:25 Hosting environment: Development
+INFO  12:12:25 Content root path: C:\Users\nikhitha\source\repos\BookingService\BookingService
+INFO  12:14:40 Adding new hotel booking with booking id : 0
+INFO  12:14:49 Get BookingDetails withuser id : 1

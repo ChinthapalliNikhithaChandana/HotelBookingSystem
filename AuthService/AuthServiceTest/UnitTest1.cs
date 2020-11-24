@@ -22,7 +22,7 @@ namespace AuthServiceTest
         {
             user = new List<User>()
             {
-                new User{Userid=1,Username="abc",Password="abc123"}
+                new User{Userid=1,Username="nikhitha",Password="abcd"}
 
             };
             userdata = user.AsQueryable();
